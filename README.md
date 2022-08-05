@@ -13,3 +13,6 @@ This contains the Module 2 Challenge
 
 ## Screenshot
 ![screenshot of the page](/assets/images/challenge-2-screenshot.png)
+
+## Credits
+- credit to the class repo example portfolio on which this is heavily based
